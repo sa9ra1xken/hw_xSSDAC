@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SDI260
+D Micro Surface Mount Schottky Bridge
+F http://akizukidenshi.com/download/ds/panjit/SDI260_SDI2100.pdf
+$ENDCMP
+#
+#End Doc Library

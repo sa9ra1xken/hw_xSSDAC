@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 16MU106MC44532
+D 16MU106MC44532
+F http://www.rubycon.co.jp/en/catalog/e_pdfs/pmlcap/e_mu.pdf
+$ENDCMP
+#
+$CMP 2SA1162-GR_F_
+D Transistor Toshiba 2SA1162-GR(F) PNP Bipolar Transistor, 0.15 A, 50 V, 3-Pin SC-59
+F https://toshiba.semicon-storage.com/ap-en/product/bipolar-transistor/bipolar-transistor/detail.2SA1162.html
+$ENDCMP
+#
+$CMP 2SC2712-GR,LF
+D Bipolar Transistors - BJT Transistor Lo Freq 0.15A 50V
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=19227&prodName=2SC2712
+$ENDCMP
+#
+$CMP B240A-13-F
+D Schottky Diode 2A 40V 0.5Vf SMA Diodes Inc B240A-13-F, SMT Schottky Diode, 40V 2A, 2-Pin DO-214AC
+F http://docs-emea.rs-online.com/webdocs/1383/0900766b81383fc9.pdf
+$ENDCMP
+#
+$CMP BLM18KG331SN1D
+D Ferrite bead SMD 0603 330R 1.7A
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP CDCLVC1103PWR
+D Low Jitter, 1:3 LVCMOS Fan-out Clock Buffer
+F http://www.ti.com/lit/gpn/cdclvc1103
+$ENDCMP
+#
+$CMP DAC8581IPW
+D Texas Instruments DAC8581IPW, 16 bit Serial DAC, 3Msps, 16-Pin TSSOP
+$ENDCMP
+#
+$CMP DM3AT-SF-PEJM5_40_
+D Memory Card Connectors MICRO SD CD CONN STD SMT PUSHPUSH
+F https://componentsearchengine.com/Datasheets/2/DM3AT-SF-PEJM5(40).pdf
+$ENDCMP
+#
+$CMP HLR-3201VXB-003H
+D connector
+F https://www.marutsu.co.jp/contents/shop/marutsu/datasheet/0000000200298249.pdf
+$ENDCMP
+#
+$CMP MAU106
+D 1W, Miniature SIP, Single & Dual Output DC/DC Converters
+F http://akizukidenshi.com/download/MAU106.pdf
+$ENDCMP
+#
+$CMP PJ-050AH
+D DC Power Connectors Power Jacks
+F https://www.cui.com/product/resource/pj-050ah.pdf
+$ENDCMP
+#
+$CMP RB501V-40TE-17
+D RB501V-40 Series 45 V 30 uA Surface Mount Schottky Barrier Diode - SOD-323
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rb501vm-40te-17-e.pdf
+$ENDCMP
+#
+$CMP SDI260
+D Micro Surface Mount Schottky Bridge
+F http://akizukidenshi.com/download/ds/panjit/SDI260_SDI2100.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G02DBVR
+D Single 2-Input Positive-NOR Gate
+F http://www.ti.com/lit/gpn/sn74lvc1g02
+$ENDCMP
+#
+$CMP SN74LVC1G79DBVR
+D Single Positive-Edge-Triggered D-Type Flip-Flop
+F http://www.ti.com/lit/gpn/sn74lvc1g79
+$ENDCMP
+#
+$CMP SN74LVC1G80DBVR
+D Single Positive-Edge-Triggered D-Type Flip-Flop
+F http://www.ti.com/lit/gpn/sn74lvc1g80
+$ENDCMP
+#
+$CMP TL431PK
+D Shunt Regulator, SOT-89
+K diode device shunt regulator
+F http://www.ti.com/lit/ds/symlink/tl431.pdf
+$ENDCMP
+#
+$CMP TPD2E001DRLR
+D Low-Capacitance 2-Channel +/-15kV ESD Protection Array for High-Speed Data Interfaces
+F http://www.ti.com/lit/ds/symlink/tpd2e001.pdf
+$ENDCMP
+#
+$CMP TS-0606
+F https://akizukidenshi.com/download/ds/cosland/ts-0606_20200714.pdf
+$ENDCMP
+#
+$CMP UD2-5NUN
+D Low Signal Relays - PCB
+F https://componentsearchengine.com/Datasheets/1/UD2-5NUN.pdf
+$ENDCMP
+#
+$CMP XU216-512-TQ128-C20
+D IC MCU 32BIT ROMLESS 128TQFP
+F https://www.xmos.com/download/XU216-512-TQ128-Datasheet(1.16).pdf
+$ENDCMP
+#
+$CMP ZX62-B-5PA_11_
+D Hirose ZX, Straight SMT, Type B Version 2.0 Micro USB Connector Receptacle
+F https://componentsearchengine.com/Datasheets/1/ZX62R-B-5P(30).pdf
+$ENDCMP
+#
+$CMP ZX62R-B-5P_30_
+D Hirose ZX, Straight SMT, Type B Version 2.0 Micro USB Connector Receptacle
+F https://componentsearchengine.com/Datasheets/1/ZX62R-B-5P(30).pdf
+$ENDCMP
+#
+#End Doc Library

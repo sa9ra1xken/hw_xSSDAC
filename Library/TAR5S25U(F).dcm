@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TAR5S25U(F)
+D Toshiba TAR5S25U(TE85L,F), LDO Regulator, 200mA, 2.5 V, 2.7  15 Vin, UFV 5-Pin
+K
+F https://toshiba.semicon-storage.com/jp/product/linear/power-supply/detail.TAR5S25.html
+$ENDCMP
+#
+#End Doc Library

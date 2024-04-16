@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAU106
+D 1W, Miniature SIP, Single & Dual Output DC/DC Converters
+K
+F http://akizukidenshi.com/download/MAU106.pdf
+$ENDCMP
+#
+#End Doc Library

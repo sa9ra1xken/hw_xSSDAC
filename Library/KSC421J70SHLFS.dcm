@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSC421J70SHLFS
+D KSC421J70SHLFS (Tactile Switches)
+K
+F https://www.ckswitches.com/media/1459/ksc.pdf
+$ENDCMP
+#
+#End Doc Library

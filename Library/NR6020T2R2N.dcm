@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NR6020T2R2N
+D Fixed Inductors 6020 2.2uH 40.8mOhms +/-30%Tol 2.7A HiCur
+K
+F https://ds.yuden.co.jp/TYCOMPAS/ut/download?pn=NRH2412T4R7MNGH++&fileType=CA
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model UD2-5NUN
+#/779435/93996/2.46/8/4/Relay or Contactor
+DEF UD2-5NUN K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "UD2-5NUN" 1150 200 50 H V L CNN
+F2 "UD25NUN" 1150 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/UD2-5NUN.pdf" 1150 0 50 H I L CNN
+F4 "Low Signal Relays - PCB" 1150 -100 50 H I L CNN "Description"
+F5 "6" 1150 -200 50 H I L CNN "Height"
+F6 "80-UD2-5NUN" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=80-UD2-5NUN" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Kemet" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "UD2-5NUN" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COIL_+ 1 0 0 200 R 50 50 0 0 U
+X NC_1 2 0 -100 200 R 50 50 0 0 U
+X COM_1 3 0 -200 200 R 50 50 0 0 U
+X NO_1 4 0 -300 200 R 50 50 0 0 U
+X NO_2 5 1300 -300 200 L 50 50 0 0 U
+X COM_2 6 1300 -200 200 L 50 50 0 0 U
+X NC_2 7 1300 -100 200 L 50 50 0 0 U
+X COIL_- 8 1300 0 200 L 50 50 0 0 U
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

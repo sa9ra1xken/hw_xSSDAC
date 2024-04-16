@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SC2712-GR,LF
+D Bipolar Transistors - BJT Transistor Lo Freq 0.15A 50V
+K
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=19227&prodName=2SC2712
+$ENDCMP
+#
+#End Doc Library

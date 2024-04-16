@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model KSC421J70SHLFS
+#/817639/93996/2.45/4/2/Switch
+DEF KSC421J70SHLFS S 0 30 Y Y 1 F N
+F0 "S" 650 300 50 H V L CNN
+F1 "KSC421J70SHLFS" 650 200 50 H V L CNN
+F2 "KSC401G50SHLFS" 650 100 50 H I L CNN
+F3 "https://www.ckswitches.com/media/1459/ksc.pdf" 650 0 50 H I L CNN
+F4 "KSC421J70SHLFS (Tactile Switches)" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "C & K COMPONENTS" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "KSC421J70SHLFS" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "611-KSC421J70SHLFS" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=611-KSC421J70SHLFS" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "RS Part Number"
+F11 "" 650 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 800 -100 200 L 50 50 0 0 U
+X 4 4 800 0 200 L 50 50 0 0 U
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

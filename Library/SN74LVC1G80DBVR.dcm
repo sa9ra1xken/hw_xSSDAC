@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G80DBVR
+D Single Positive-Edge-Triggered D-Type Flip-Flop
+F http://www.ti.com/lit/gpn/sn74lvc1g80
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC112AD
+D Texas Instruments SN74LVC112AD, Dual, J-K Type Flip Flop, 1.65  3.6 V, 16-Pin SOIC
+K
+F http://www.ti.com/lit/gpn/SN74LVC112A
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PJ-050AH
+D DC Power Connectors Power Jacks
+F https://www.cui.com/product/resource/pj-050ah.pdf
+$ENDCMP
+#
+$CMP PJ-050AH_pretty
+D DC Power Connectors Power Jacks
+F https://www.cui.com/product/resource/pj-050ah.pdf
+$ENDCMP
+#
+#End Doc Library

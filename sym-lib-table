@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name xSSDAC)(type Legacy)(uri ${KIPRJMOD}/Library/xSSDAC.lib)(options "")(descr ""))
+  (lib (name MP1584EN-LF-Z)(type Legacy)(uri ${MYLIB}/MP1584EN-LF-Z.lib)(options "")(descr "")(disabled))
+  (lib (name NR10050T4R9N)(type Legacy)(uri ${MYLIB}/NR10050T4R9N.lib)(options "")(descr "")(disabled))
+  (lib (name SN74LVC112AD)(type Legacy)(uri ${KIPRJMOD}/Library/SN74LVC112AD.lib)(options "")(descr ""))
+  (lib (name xSSDAC-rescue)(type Legacy)(uri ${KIPRJMOD}/xSSDAC-rescue.lib)(options "")(descr ""))
+)

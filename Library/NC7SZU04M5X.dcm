@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NC7SZU04M5X
+D NC7SZU04M5X, Inverter, SZ, 1.65 to 5.5V 5-Pin SOT-23
+K
+F https://www.fairchildsemi.com/datasheets/NC/NC7SZU04.pdf
+$ENDCMP
+#
+#End Doc Library

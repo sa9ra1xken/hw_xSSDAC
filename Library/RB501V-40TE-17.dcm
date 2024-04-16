@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RB501V-40TE-17
+D RB501V-40 Series 45 V 30 uA Surface Mount Schottky Barrier Diode - SOD-323
+K
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rb501vm-40te-17-e.pdf
+$ENDCMP
+#
+#End Doc Library

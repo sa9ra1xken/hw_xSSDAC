@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XU216-512-TQ128-C20
+D IC MCU 32BIT ROMLESS 128TQFP
+F https://www.xmos.com/download/XU216-512-TQ128-Datasheet(1.16).pdf
+$ENDCMP
+#
+#End Doc Library

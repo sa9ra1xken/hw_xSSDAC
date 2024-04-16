@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ZX62R-B-5P_30_
+#
+DEF ZX62R-B-5P_30_ J 0 30 Y Y 1 F N
+F0 "J" 550 0 50 H V L CNN
+F1 "ZX62R-B-5P_30_" 550 -100 50 H V L CNN
+F2 "ZX62R-B-5P(30)" 550 -200 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/ZX62R-B-5P(30).pdf" 550 -300 50 H I L CNN
+F4 "Hirose ZX, Straight SMT, Type B Version 2.0 Micro USB Connector Receptacle" 550 -400 50 H I L CNN "Description"
+F5 "798-ZX62R-B-5P30" 550 -600 50 H I L CNN "Mouser Part Number"
+F6 "https://www.mouser.com/Search/Refine.aspx?Keyword=798-ZX62R-B-5P30" 550 -700 50 H I L CNN "Mouser Price/Stock"
+F7 "Hirose" 550 -800 50 H I L CNN "Manufacturer_Name"
+F8 "ZX62R-B-5P(30)" 550 -900 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 -100 -200 500 -200 500 -600 -100 -600 -100 -200 N
+X VBUS 1 400 0 200 D 50 50 0 0 w
+X DM 2 300 0 200 D 50 50 0 0 B
+X DP 3 200 0 200 D 50 50 0 0 B
+X ~ 4 100 0 200 D 50 50 0 0 B
+X GND 5 0 0 200 D 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+#End Library

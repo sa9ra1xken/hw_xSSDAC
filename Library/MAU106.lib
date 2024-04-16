@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MAU106
+#/969943/93996/2.36/5/4/Undefined or Miscellaneous
+DEF MAU106 U 0 30 Y Y 1 F N
+F0 "U" 1150 300 50 H V L CNN
+F1 "MAU106" 1150 200 50 H V L CNN
+F2 "MAU109" 1150 100 50 H I L CNN
+F3 "http://akizukidenshi.com/download/MAU106.pdf" 1150 0 50 H I L CNN
+F4 "1W, Miniature SIP, Single & Dual Output DC/DC Converters" 1150 -100 50 H I L CNN "Description"
+F5 "" 1150 -200 50 H I L CNN "Height"
+F6 "Minmax" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MAU106" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1150 -500 50 H I L CNN "RS Part Number"
+F9 "" 1150 -600 50 H I L CNN "RS Price/Stock"
+F10 "" 1150 -700 50 H I L CNN "Mouser Part Number"
+F11 "" 1150 -800 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X +VIN 1 0 0 200 R 50 50 0 0 B
+X -VIN 2 0 -100 200 R 50 50 0 0 B
+X -VOUT 4 0 -200 200 R 50 50 0 0 B
+X COMMON 5 1300 0 200 L 50 50 0 0 B
+X +VOUT 6 1300 -100 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

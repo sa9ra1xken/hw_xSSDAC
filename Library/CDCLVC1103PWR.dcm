@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDCLVC1103PWR
+D Low Jitter, 1:3 LVCMOS Fan-out Clock Buffer
+K
+F http://www.ti.com/lit/gpn/cdclvc1103
+$ENDCMP
+#
+#End Doc Library

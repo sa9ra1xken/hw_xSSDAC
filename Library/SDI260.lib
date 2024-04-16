@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SDI260
+#
+DEF SDI260 BR 0 30 Y Y 1 F N
+F0 "BR" 750 300 50 H V L CNN
+F1 "SDI260" 750 200 50 H V L CNN
+F2 "DIP825W56P510L828H250Q4N" 750 100 50 H I L CNN
+F3 "http://akizukidenshi.com/download/ds/panjit/SDI260_SDI2100.pdf" 750 0 50 H I L CNN
+F4 "Micro Surface Mount Schottky Bridge" 750 -100 50 H I L CNN "Description"
+F5 "2.5" 750 -200 50 H I L CNN "Height"
+F6 "PANJIT" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SDI260" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+X ~_1 1 0 0 200 R 50 50 0 0 W
+X ~_2 2 0 -100 200 R 50 50 0 0 W
+X + 3 900 -100 200 L 50 50 0 0 w
+X - 4 900 0 200 L 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+#End Library

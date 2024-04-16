@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FA-238_25.0000MB-K3
+D Crystals 25MHz 50ppm 10pF -20C +70C
+K
+F https://componentsearchengine.com/Datasheets/1/FA-238 25.0000MB-K3.pdf
+$ENDCMP
+#
+#End Doc Library
